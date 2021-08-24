@@ -23,7 +23,7 @@ The 'data' folder contains monthly data downloaded from Airbnb.
 The 'figures' folder contains all figures saved from the analysis. 
 
 ### Results <a name='results'></a>
-The main results of this analysis can be found in this Medium [post]().
+The main results of this analysis can be found in this Medium [post](https://medium.com/@jaymeesheng/where-should-you-stay-in-new-york-bd6230714b29).
 
 ### Acknowledgements <a name='acknowledge'></a>
 The Airbnb data is available under a Creative Commons CC0 1.0 Universal (CC0 1.0) "Public Domain Dedication" license and can be found [here](http://insideairbnb.com/get-the-data.html). 
